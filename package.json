@@ -1,0 +1,36 @@
+{
+  "name": "react-native-custom-dynamic-cropper",
+  "version": "0.1.0",
+  "description": "Take an image in a react native app and crop it dynamically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osmannbozkurt/react-native-custom-dynamic-cropper.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "react-native",
+    "image",
+    "picker",
+    "dynamic",
+    "crop",
+    "camera",
+    "iOS"
+  ],
+  "author": "Robert Sherling",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/osmannbozkurt/react-native-custom-dynamic-cropper/issues"
+  },
+  "homepage": "https://github.com/osmannbozkurt/react-native-custom-dynamic-cropper#readme",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  },
+  "dependencies": {
+    "npm": "^6.1.0"
+  }
+}
